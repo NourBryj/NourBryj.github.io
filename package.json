@@ -10,7 +10,7 @@
   "async": "^2.6.2",
   "bluebird": "^3.5.4",
   "express": "^4.16.4",
-  "flat": "^4.1.0",
+  "flat": "^5.0.1",
   "follow-redirects": "^1.7.0",
   "oxford-dictionary": "^1.4.1",
   "oxford-dictionary-api": "^1.0.1",
